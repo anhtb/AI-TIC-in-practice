@@ -3,4 +3,4 @@ torchvision
 opencv-python
 scikit-image
 scipy
-pillow==6.1
+pillow==8.1.1
